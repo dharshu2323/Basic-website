@@ -4,6 +4,8 @@ This is basic website build using Html,Css and JavaScript
 
 
 Fortune cookie👇
+
+
 https://github.com/dharshu2323/Fortune-Cookie/assets/104815447/6bdd628c-833b-44d2-a81e-f5cd3fa16163
 
 
