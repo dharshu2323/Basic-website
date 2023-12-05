@@ -11,5 +11,5 @@ https://github.com/dharshu2323/Fortune-Cookie/assets/104815447/6bdd628c-833b-44d
 
 Digital Clock👇
 
-Link:https://dharshu2323.github.io/web.github.io/
+
 ![Screenshot (62)](https://github.com/dharshu2323/Fortune-Cookie/assets/104815447/0dea1168-4c50-4f11-bb94-9e0ee01ed55a)
